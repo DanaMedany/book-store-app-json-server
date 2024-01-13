@@ -1,0 +1,23 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "price": 30,
+      "description": "Learn React from scratch"
+    },
+    {
+      "id": 2,
+      "title": "Learn Javascript",
+      "price": 100,
+      "description": "Learn Javascript from scratch"
+    },
+    {
+      "id": "7a96",
+      "title": "Frontend Developer",
+      "price": "200",
+      "description": "frontend projects",
+      "creator": "Dana"
+    }
+  ]
+}
